@@ -26,7 +26,7 @@ The second was to get hands-on with the Rust HTTP and JSON ecosystem — `reqwes
 
 ## Demo
 
-![Demo](demo.mp4)
+![Demo](demo.gif)
 
 ```
 $ weather-cli weather "new york" --units imperial --verbose
